@@ -1,5 +1,5 @@
 {
-  "name": "softshell-componets_vue-core",
+  "name": "@soft-shell-componets/vue-core",
   "version": "0.1.0",
   "private": true,
   "scripts": {
